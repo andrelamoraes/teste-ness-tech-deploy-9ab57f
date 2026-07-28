@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Arch shape echoing the hero portrait framing -->
+  <path d="M8 60 V28 a24 24 0 0 1 48 0 V60 Z" fill="#B5654A"/>
+  <path d="M8 60 V28 a24 24 0 0 1 48 0 V60 Z" fill="none" stroke="#EFE6D8" stroke-width="2.5"/>
+  <text x="32" y="46" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="26" font-style="italic" font-weight="600"
+        fill="#F7F1E7">TN</text>
+</svg>
